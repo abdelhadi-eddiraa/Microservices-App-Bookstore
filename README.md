@@ -20,13 +20,16 @@ To run the application locally, follow these steps:
 Clone the repository:
 
 shell
-Copy code
-git clone https://github.com/your-username/bookstore-microservices.git
-Configure the database and messaging services in each microservice's configuration files.
+- Copy code
+- <pre>
+  git clone https://github.com/your-username/bookstore-microservices.git
 
-Build and run each microservice individually using the provided build tools (e.g., Maven or Gradle).
+</pre>
+- Configure the database and messaging services in each microservice's configuration files.
 
-Access the microservices through their respective endpoints, as described in the API documentation.
+- Build and run each microservice individually using the provided build tools (e.g., Maven or Gradle).
+
+- Access the microservices through their respective endpoints, as described in the API documentation.
 
 ## API Documentation
 For detailed information about the endpoints and request/response formats, refer to the API documentation. The documentation provides examples and usage guidelines for interacting with each microservice.

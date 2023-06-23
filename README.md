@@ -19,9 +19,8 @@ To run the application locally, follow these steps:
 
 Clone the repository:
 
-shell
-- Copy code
-- <pre>
+ Copy code
+ <pre>
   git clone https://github.com/your-username/bookstore-microservices.git
 
 </pre>
